@@ -17,7 +17,7 @@
     
     For example:
     
-    ```javascript
+    ```javascript 
     checkLock(5, 2, 45, 1) // returns "correct"
     checkLock(1, 2, 45, 1) // returns "incorrect" because the first number isn't a 3, 5, or 7
     checkLock(5, 2, 45, 10) // returns "incorrect" because the fourth number is between 9 and 20
